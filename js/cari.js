@@ -64,3 +64,6 @@ window.addEventListener('resize', updateSection);
 window.addEventListener('load', updateSection);
 updateSection();
 
+
+const artObserver = new ResizeObserver(entries => entries.forEach(({target}) => target.style.setProperty('--art-scale',Math.min(1,target.clientWidth/190))));
+document.querySelectorAll('.cari-positioning [data-name="Visual"]').forEach(el=>artObserver.observe(el));
