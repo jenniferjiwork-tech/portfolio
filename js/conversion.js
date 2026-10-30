@@ -1,11 +1,13 @@
 /* MP4 demos: defer downloads, preserve stills, and pause offscreen. */
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-const sequences = [...document.querySelectorAll('.mobile-sequence, .gift-steps')].map(stage => ({stage, players:[], index:0, visible:false}));
+const sequences = [...document.querySelectorAll('.mobile-sequence')].map(stage => ({stage, players:[], index:0, visible:false}));
 const players = [...document.querySelectorAll('[data-case-video]')].map(stage => ({
   stage, video:stage.querySelector('video'), button:stage.querySelector('.scene-toggle'),
   visible:false, manuallyPaused:false, userStarted:false, failed:false,
   sequence:sequences.find(sequence => sequence.stage.contains(stage))
 }));
+const giftPlayers = players.filter(player => player.stage.closest('.gift-steps'));
+let focusedGift = null;
 const playerByStage = new Map(players.map(player => [player.stage,player]));
 for (const sequence of sequences) sequence.players = players.filter(player => player.sequence === sequence);
 function loadVideo(player, preload = 'metadata') {
@@ -19,6 +21,7 @@ function loadVideo(player, preload = 'metadata') {
 }
 function isAllowedToPlay(player) {
   if (player.failed || document.hidden || player.manuallyPaused) return false;
+  if (giftPlayers.includes(player) && player !== focusedGift) return false;
   if (player.sequence) return player.sequence.visible && player.sequence.players[player.sequence.index] === player && (!prefersReducedMotion.matches || player.userStarted);
   return player.visible && (!prefersReducedMotion.matches || player.userStarted);
 }
@@ -99,6 +102,7 @@ for (const player of players) {
     if (player.sequence && player.sequence.players[player.sequence.index] === player) advanceSequence(player.sequence);
   });
   button.addEventListener('click', () => {
+    if (giftPlayers.includes(player)) { focusedGift = player; giftPlayers.filter(other => other !== player).forEach(other => other.video.pause()); }
     if (video.paused) { player.manuallyPaused = false; player.userStarted = true; }
     else { player.manuallyPaused = true; }
     syncPlayer(player);
@@ -176,3 +180,30 @@ if (focusSequence) {
   new ResizeObserver(sizeFocusSequence).observe(focusSequence);
   sizeFocusSequence();
 }
+
+/* Only the visible gift bag demo nearest the viewport center autoplays. */
+function focusNearestGift() {
+  const center = innerHeight / 2;
+  focusedGift = giftPlayers.filter(player => {
+    const box = player.stage.getBoundingClientRect();
+    return !player.failed && box.bottom > 0 && box.top < innerHeight;
+  }).sort((a, b) => {
+    const distance = player => { const box = player.stage.getBoundingClientRect(); return Math.abs((box.top + box.bottom) / 2 - center); };
+    return distance(a) - distance(b);
+  })[0] || null;
+  for (const player of giftPlayers) {
+    const box = player.stage.getBoundingClientRect();
+    player.visible = box.bottom > 0 && box.top < innerHeight;
+    syncPlayer(player);
+  }
+}
+let giftFramePending = false;
+function scheduleGiftFocus() {
+  if (giftFramePending) return;
+  giftFramePending = true;
+  requestAnimationFrame(() => { giftFramePending = false; focusNearestGift(); });
+}
+window.addEventListener('scroll', scheduleGiftFocus, {passive:true});
+window.addEventListener('resize', scheduleGiftFocus);
+window.addEventListener('load', scheduleGiftFocus);
+focusNearestGift();

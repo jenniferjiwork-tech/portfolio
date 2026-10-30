@@ -89,3 +89,6 @@ figure{margin:0;min-width:0}.mobile-sequence figcaption{display:flex;gap:12px;ma
  .mobile-sequence>figure{display:grid;grid-template-rows:var(--sequence-media-height,auto) auto;align-items:start}
 }
 @media(prefers-reduced-motion:reduce){.mobile-sequence{transition:none}}
+
+/* Trim the tiny black corners baked into the rounded MP4 exports. */
+.mobile-sequence .case-video-poster,.mobile-sequence .case-video video{transform:scale(1.02)}

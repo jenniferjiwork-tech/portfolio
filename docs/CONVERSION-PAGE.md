@@ -18,6 +18,8 @@ Edit written copy in the HTML outside the `motion-stage` elements. Replace video
 
 This page includes the shared two-line contact heading and your LinkedIn URL.
 
-The gift bag demos also play A → B → C in a separate repeating sequence, pausing offscreen.
+The gift bag demo nearest the viewport center plays on a loop, with manual pause/resume. Other gift bag demos pause.
 
 On desktop, the currently active Shop the Look clip expands to twice the width of its neighbors, following A → B → C. Media row height is reserved to avoid shifting subsequent content; mobile retains the stacked layout and reduced motion disables the resizing transition.
+
+Gift bag playback now follows the visible demo nearest the viewport center, with per-demo pause/resume and looping. Shop the Look retains its A/B/C sequence. A 2% media overscan hides black corners baked into the Shop the Look exports.
