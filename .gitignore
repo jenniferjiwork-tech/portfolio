@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+
+# Keep full-size master exports locally, outside the published source.
+/assets/videos/originals/

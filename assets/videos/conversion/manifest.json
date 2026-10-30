@@ -1,0 +1,60 @@
+{
+  "encoding": "H.264, CRF 20, original dimensions, 30 FPS, yuv420p, muted, faststart",
+  "files": [
+    {
+      "file": "01-conversion-hero.mp4",
+      "original": 4916549,
+      "compressed": 848411
+    },
+    {
+      "file": "02-collection-pages.mp4",
+      "original": 14530133,
+      "compressed": 1454922
+    },
+    {
+      "file": "03-shop-the-look-desktop.mp4",
+      "original": 8607252,
+      "compressed": 1495954
+    },
+    {
+      "file": "04-browse-mobile.mp4",
+      "original": 2360524,
+      "compressed": 464911
+    },
+    {
+      "file": "05-shop-the-look-mobile.mp4",
+      "original": 3372996,
+      "compressed": 722428
+    },
+    {
+      "file": "06-quick-add-mobile.mp4",
+      "original": 546583,
+      "compressed": 157941
+    },
+    {
+      "file": "07-gift-bags-browse.mp4",
+      "original": 1943694,
+      "compressed": 318827
+    },
+    {
+      "file": "08-gift-bags-add.mp4",
+      "original": 401867,
+      "compressed": 138711
+    },
+    {
+      "file": "09-gift-bags-cart-update.mp4",
+      "original": 859229,
+      "compressed": 207942
+    },
+    {
+      "file": "10-more-styles-before.mp4",
+      "original": 9446982,
+      "compressed": 1190375
+    },
+    {
+      "file": "11-more-styles-after.mp4",
+      "original": 8071933,
+      "compressed": 1076694
+    }
+  ]
+}

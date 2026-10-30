@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="116" height="116" viewBox="0 0 116 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mail icon" filter="url(#filter0_d_0_252)">
+<rect x="20" y="12" width="76" height="76" rx="18" fill="#171717"/>
+<path id="Envelope" d="M41 37.25H75C75.9665 37.25 76.75 38.0335 76.75 39V61C76.75 61.9665 75.9665 62.75 75 62.75H41C40.0335 62.75 39.25 61.9665 39.25 61V39C39.25 38.0335 40.0335 37.25 41 37.25Z" stroke-width="2.5" stroke="white"/>
+<path id="Flap" d="M38 38L58 53L78 38" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+</g>
+<defs>
+<filter id="filter0_d_0_252" x="0" y="0" width="116" height="116" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="8"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_252"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_252" result="shape"/>
+</filter>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+/* JENNY BIRD overview, following the desktop and mobile Figma frames. */
+.jenny-bird-page .case-facts{grid-template-columns:repeat(4,minmax(0,1fr))}
+.jb-scale{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;padding-top:24px;width:100%}.jb-scale>div{border-top:1px solid var(--border);padding-top:16px}.jb-scale strong{font:400 28px/36px Newsreader,Georgia,serif}.jb-scale p{margin-top:6px;color:var(--secondary)}
+.jb-cover{display:block;width:100%;height:auto;aspect-ratio:960/400;object-fit:cover;border-radius:2px}.jb-body{display:flex;flex-direction:column;gap:20px}
+.jb-figure{display:flex;flex-direction:column;gap:12px;padding-top:48px}.jb-figure figcaption{font-size:13px;line-height:19px;color:var(--muted);max-width:640px}.jb-figure .motion-stage{aspect-ratio:960/620}
+.ownership-labels{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;padding-top:8px;margin-bottom:-16px}.ownership-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}.ownership-grid article{border-top:1px solid var(--border);padding-top:20px}.ownership-grid h3{font-size:18px;line-height:26px;font-weight:500;margin:16px 0 8px}.ownership-grid p{color:var(--secondary)}.period{color:var(--muted);line-height:20px}.jb-case-link{padding-top:24px}.jb-case-link a{font-weight:500}.jb-retention strong{display:block;font:400 56px/60px Newsreader,Georgia,serif;letter-spacing:-1.12px;margin-bottom:8px}.jb-retention div>p{color:var(--secondary)}
+@media(min-width:761px) and (max-width:1199px){.ownership-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.jenny-bird-page .case-facts{grid-template-columns:minmax(0,1fr)}.jb-scale{gap:16px}.jb-scale strong{font-size:24px;line-height:32px}.ownership-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 16px}.ownership-labels{display:none}.ownership-grid article:nth-child(odd):before{content:'Owned';display:block;color:var(--muted);font-size:12px;margin-bottom:16px}.ownership-grid article:nth-child(3):before{content:'Designed & supported'}.ownership-grid article:nth-child(2):before,.ownership-grid article:nth-child(4):before{content:'';display:block;height:34px}.jb-figure{padding-top:24px}.jb-cover{aspect-ratio:960/400}.jb-case-link{padding-top:8px}}
+
+@media(max-width:760px){#site-design .motion-stage{aspect-ratio:350/517!important}#email-retention .motion-stage{aspect-ratio:350/503!important}.motion-stage[data-mobile-base] .scene-canvas{position:absolute;left:50%;margin-left:calc(-480px * var(--scene-scale,1))}}
+
+/* Keep the original SVG separate from the moving campaign footage. */
+.jb-hero-media{position:relative;overflow:hidden;aspect-ratio:960/400;border-radius:2px;background:#e8e6e1}
+.jb-hero-video{height:100%;object-fit:cover}
+.jb-hero-wordmark{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.jb-hero-wordmark img{display:block;width:100%;height:auto}
+.jb-hero-wordmark{width:27.083333%;height:auto;inset:50% auto auto 50%;transform:translate(-50%,-50%)}
+.jb-hero-toggle[hidden]{display:none}

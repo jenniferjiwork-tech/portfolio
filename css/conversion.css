@@ -1,0 +1,81 @@
+/* Conversion case study. All layouts remain fluid; artwork scales within its scene. */
+.conversion-page .case-sidebar nav{top:216px;gap:2px;max-width:calc(100% - 40px)}
+.case-sidebar .all-work{position:absolute;left:40px;top:160px;padding:4px 0;color:var(--secondary);text-decoration:none}
+.case-sidebar .nav-sub{padding-left:14px}.case-sidebar .mobile-all-work{display:none}
+.case-overview{display:flex;flex-direction:column;gap:20px;scroll-margin-top:32px}
+.eyebrow{font:500 12px/16px Inter,Arial,sans-serif;letter-spacing:.72px;text-transform:uppercase;color:var(--muted)}
+.case-overview h1,.case-lead,.case-summary{max-width:608px}
+.case-lead{font-size:18px;line-height:29px;letter-spacing:-.252px;color:var(--secondary)}
+.case-summary{font-size:16px;line-height:26px;letter-spacing:-.176px;color:var(--secondary)}
+.case-facts{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px;border-top:1px solid var(--border);padding-top:20px;width:100%}
+.case-facts>div{min-width:0}.case-facts dt{color:var(--muted);margin-bottom:4px}
+.case-hero{padding-top:64px}.case-process{padding-top:56px;scroll-margin-top:32px}
+.process-grid{list-style:none;padding:24px 0 0;margin:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.process-number{display:block;margin-bottom:12px;color:var(--accent)}.process-grid h3{margin-bottom:8px}.process-grid p{color:var(--secondary)}
+.case-section{padding-top:160px;display:flex;flex-direction:column;gap:32px;scroll-margin-top:0;min-width:0}
+.case-section-header{border-top:1px solid var(--border);padding-top:24px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr)}
+.section-kicker{color:var(--accent);line-height:21px}.section-name{font-weight:500;line-height:20px;margin-top:2px}
+.case-section-header h2{font:400 28px/36px Newsreader,Georgia,serif;letter-spacing:-.14px;font-optical-sizing:auto}
+.case-context{display:flex;flex-direction:column;gap:24px;padding-top:8px}
+.case-context>div,.case-outcome{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px;border-top:1px solid var(--border);padding-top:16px}
+.case-context>div{grid-template-columns:minmax(0,296fr) minmax(0,640fr)}
+.case-context dt{font-size:12px;line-height:16px;letter-spacing:.72px;font-weight:500;text-transform:uppercase;color:var(--muted)}
+.case-context dd,.case-outcome>p:last-child{color:var(--secondary)}
+.motion-stage{width:100%;min-width:0;position:relative;overflow:hidden;background:#e8e6e1}
+.scene-clip{position:absolute;inset:0;overflow:hidden}
+.scene-canvas{transform-origin:0 0;transform:scale(var(--scene-scale,1));max-width:none}
+.scene-canvas img{max-width:none}.scene-canvas p{margin:0}
+.motion-stage:not([data-playing="true"]) [data-motion-node]{animation-play-state:paused!important}
+.scene-toggle{position:absolute;right:12px;bottom:12px;z-index:2;border:1px solid #ddd;border-radius:4px;padding:6px 10px;font:400 12px/18px Inter,sans-serif;background:#fff;color:#141414;box-shadow:0 2px 8px #0000000a}
+.case-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.case-stats strong{display:block;font:400 40px/48px Newsreader,Georgia,serif;letter-spacing:-.4px;font-optical-sizing:auto}.case-stats p{margin-top:4px;color:var(--secondary)}
+.case-note{font-size:13px;line-height:19px;letter-spacing:-.0325px;color:var(--muted);max-width:640px}
+.case-timeline{width:66.6667%;margin-left:auto;padding-top:8px;min-width:0}
+.timeline-caption{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}.timeline-caption p{line-height:21px}.timeline-caption p span{color:var(--secondary)}
+.timeline-line{height:2px;background:var(--border);position:relative;margin-top:12px}
+.timeline-progress{position:absolute;top:-2px;height:6px;border-radius:3px;background:var(--accent)}.year-tick{position:absolute;top:-4px;left:70.588%;height:10px;width:1px;background:var(--border)}
+.timeline-dates{position:relative;height:19px;margin-top:9px;font-size:13px;line-height:19px;color:var(--muted)}.timeline-dates span:nth-child(2){position:absolute;left:70.588%;transform:translateX(-50%)}.timeline-dates span:last-child{position:absolute;right:0}
+.mobile-sequence{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) minmax(0,1fr);gap:24px;padding-top:24px;align-items:start}
+figure{margin:0;min-width:0}.mobile-sequence figcaption{display:flex;gap:12px;margin-top:16px}.step-letter{color:var(--muted)}figcaption h3{margin-bottom:4px}figcaption>p,figcaption>div>p{color:var(--secondary)}
+.gift-steps{display:flex;flex-direction:column;gap:56px;padding-top:24px}.gift-steps figure{display:grid;grid-template-columns:minmax(0,469px) minmax(0,1fr);gap:80px;align-items:end}.gift-steps figcaption{padding-bottom:8px}.gift-steps figcaption>.eyebrow{margin-bottom:12px}.gift-steps h3{margin-bottom:8px}
+.before-after{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;max-width:872px;width:100%;margin:0 auto}
+.case-body-offset{margin-left:33.3333%;font-size:16px;line-height:26px;letter-spacing:-.176px;color:var(--secondary)}
+.test-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;padding-top:16px}
+.test-card{background:color-mix(in srgb,var(--page) 95%,var(--text));padding:32px;display:flex;flex-direction:column;gap:12px;min-width:0;border-radius:2px}.test-card>p:not(.eyebrow){color:var(--secondary)}.test-card dl{padding-top:12px;display:flex;flex-direction:column;gap:6px}.test-card dl>div{display:grid;grid-template-columns:64px minmax(0,1fr);gap:12px}.test-card dt{color:var(--muted);font-size:13px;line-height:19px}.test-card dd{color:var(--text)}
+.takeaways{display:flex;flex-direction:column;gap:20px}
+@media(min-width:761px) and (max-width:1199px){
+ .case-facts{grid-template-columns:repeat(3,minmax(0,1fr))}.process-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .case-section-header,.case-context>div,.case-outcome{grid-template-columns:minmax(0,1fr);gap:16px}.case-body-offset{margin-left:0}.case-timeline{width:100%}.gift-steps figure{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px}.test-card{padding:24px}
+}
+@media(max-width:760px){
+ .conversion-page .case-sidebar nav{top:56px;max-width:none;gap:2px;max-height:calc(100dvh - 76px);overflow-y:auto}
+ .case-sidebar .all-work{display:none}.case-sidebar .mobile-all-work{display:block;min-height:44px}.case-sidebar .nav-sub{padding-left:12px}
+ .conversion-page main{padding-top:48px}
+ .case-overview h1{max-width:100%}.case-lead{font-size:17px;line-height:27px;letter-spacing:-.221px}
+ .case-facts{grid-template-columns:minmax(0,1fr);gap:24px}.case-hero{padding-top:26px}
+ .case-process{padding-top:22px}.process-grid{grid-template-columns:minmax(0,1fr);gap:24px;padding-top:24px}.process-number{margin-bottom:8px}
+ .case-section{padding-top:64px}
+ .case-section-header{grid-template-columns:minmax(0,1fr);gap:16px}
+ .case-section-header h2{font-size:24px;line-height:32px;letter-spacing:-.12px}
+ .case-context>div,.case-outcome{grid-template-columns:minmax(0,1fr);gap:12px}
+ .case-context{padding-top:0}.case-timeline{width:100%}.timeline-caption{gap:8px}.timeline-caption p{font-size:13px}
+ .case-stats strong{font-size:32px;line-height:40px}
+ .mobile-sequence{grid-template-columns:minmax(0,1fr);gap:24px}
+ .gift-steps{gap:28px}.gift-steps figure{grid-template-columns:minmax(0,1fr);gap:16px}
+ .before-after{grid-template-columns:minmax(0,1fr);gap:24px}
+ .case-body-offset{margin-left:0}.test-grid{grid-template-columns:minmax(0,1fr)}.test-card{padding:24px}
+ .scene-toggle{right:8px;bottom:8px;padding:4px 8px;font-size:11px}
+}
+
+/* Hero canvas and loop-reset layer share the same Figma mist background. */
+.case-hero .motion-stage{background:#dce4ec}
+
+/* Shop the Look uses automatic demos without individual playback buttons. */
+#shop-the-look > .motion-stage .scene-toggle,.mobile-sequence .scene-toggle{display:none}
+
+/* MP4 replacements retain the original panel shape and show a still while loading. */
+.case-video-poster{display:block;width:100%;height:100%;object-fit:contain}
+.case-video video{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0}
+.case-video[data-ready="true"] video{opacity:1}
+.case-video[data-error="true"] video{display:none}
+.case-video .scene-toggle[hidden]{display:none}
