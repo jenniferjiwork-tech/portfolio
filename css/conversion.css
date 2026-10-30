@@ -92,3 +92,8 @@ figure{margin:0;min-width:0}.mobile-sequence figcaption{display:flex;gap:12px;ma
 
 /* Trim the tiny black corners baked into the rounded MP4 exports. */
 .mobile-sequence .case-video-poster,.mobile-sequence .case-video video{transform:scale(1.02)}
+
+/* Normalize all three export shapes so inactive panels have matching edges. */
+.mobile-sequence .case-video{aspect-ratio:912/1200!important}
+.mobile-sequence .case-video-poster{position:absolute;inset:0;object-fit:cover}
+.mobile-sequence .case-video video{object-fit:cover}
