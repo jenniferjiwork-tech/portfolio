@@ -5,9 +5,9 @@ Personal portfolio of Jennifer Ji, a product designer based in Switzerland. Buil
 ## Pages
 
 - `index.html` — homepage and selected work
-- `about.html` — background, experience and education
-- `projects/conversion.html` — conversion design and testing at JENNY BIRD
-- `projects/jenny-bird.html` — JENNY BIRD experience, site design and email work
+- `about/index.html` — background, experience and education
+- `projects/conversion/index.html` — conversion design and testing at JENNY BIRD
+- `projects/jenny-bird/index.html` — JENNY BIRD experience, site design and email work
 
 ## Preview locally
 
@@ -48,3 +48,5 @@ This is a static website suitable for GitHub Pages. In repository Settings → P
 ## Rights and third-party materials
 
 See `LICENSE` for the portfolio rights notice. Client work and JENNY BIRD branding are shown as portfolio examples and remain the property of their respective owners. Bundled fonts retain their separate license notices in `assets/fonts/`.
+
+Public routes use `/`, `/about/`, `/projects/conversion/`, and `/projects/jenny-bird/`. Older `.html` project and About links redirect to the corresponding clean route, preserving anchors. Use a local HTTP server to preview root-relative asset paths.

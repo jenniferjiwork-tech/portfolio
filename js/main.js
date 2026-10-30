@@ -46,7 +46,7 @@ document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && 
 const currentPage = document.body.dataset.page;
 navigation.querySelectorAll('a').forEach((link) => {
   const href = link.getAttribute('href');
-  const page = href === 'about.html' ? 'about' : (href === '#work' || href === 'index.html#work') ? 'work' : null;
+  const page = href === '/about/' ? 'about' : (href === '#work' || href === '/#work') ? 'work' : null;
   if (!page) return;
   const active = page === currentPage;
   link.classList.toggle('active', active);
