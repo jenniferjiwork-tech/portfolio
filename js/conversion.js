@@ -164,3 +164,15 @@ window.addEventListener('scroll', () => {
 window.addEventListener('resize', updateSection);
 window.addEventListener('load', updateSection);
 updateSection();
+
+/* Reserve the largest media height so focus changes do not move the next section. */
+const focusSequence = document.querySelector('.mobile-sequence');
+if (focusSequence) {
+  const sizeFocusSequence = () => {
+    const gap = parseFloat(getComputedStyle(focusSequence).columnGap) || 24;
+    const largeWidth = Math.max(0, (focusSequence.clientWidth - gap * 2) / 2);
+    focusSequence.style.setProperty('--sequence-media-height', `${largeWidth * 1200 / 912}px`);
+  };
+  new ResizeObserver(sizeFocusSequence).observe(focusSequence);
+  sizeFocusSequence();
+}

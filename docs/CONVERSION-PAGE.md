@@ -19,3 +19,5 @@ Edit written copy in the HTML outside the `motion-stage` elements. Replace video
 This page includes the shared two-line contact heading and your LinkedIn URL.
 
 The gift bag demos also play A → B → C in a separate repeating sequence, pausing offscreen.
+
+On desktop, the currently active Shop the Look clip expands to twice the width of its neighbors, following A → B → C. Media row height is reserved to avoid shifting subsequent content; mobile retains the stacked layout and reduced motion disables the resizing transition.

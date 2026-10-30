@@ -79,3 +79,13 @@ figure{margin:0;min-width:0}.mobile-sequence figcaption{display:flex;gap:12px;ma
 .case-video[data-ready="true"] video{opacity:1}
 .case-video[data-error="true"] video{display:none}
 .case-video .scene-toggle[hidden]{display:none}
+
+/* Give the currently playing Shop the Look clip the wider column. */
+@media(min-width:761px){
+ .mobile-sequence{transition:grid-template-columns .45s ease}
+ .mobile-sequence[data-active-step="a"]{grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr)}
+ .mobile-sequence[data-active-step="b"]{grid-template-columns:minmax(0,1fr) minmax(0,2fr) minmax(0,1fr)}
+ .mobile-sequence[data-active-step="c"]{grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,2fr)}
+ .mobile-sequence>figure{display:grid;grid-template-rows:var(--sequence-media-height,auto) auto;align-items:start}
+}
+@media(prefers-reduced-motion:reduce){.mobile-sequence{transition:none}}
