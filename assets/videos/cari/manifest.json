@@ -1,0 +1,58 @@
+[
+  {
+    "file": "01-cari-hero.mp4",
+    "originalBytes": 1771966,
+    "websiteBytes": 478447,
+    "width": 1920,
+    "height": 800,
+    "duration": "00:00:12.43"
+  },
+  {
+    "file": "02-project-scenario.mp4",
+    "originalBytes": 792024,
+    "websiteBytes": 269446,
+    "width": 1920,
+    "height": 880,
+    "duration": "00:00:15.03"
+  },
+  {
+    "file": "03-catch-up-walkthrough.mp4",
+    "originalBytes": 13412560,
+    "websiteBytes": 2958090,
+    "width": 1920,
+    "height": 1240,
+    "duration": "00:00:31.03"
+  },
+  {
+    "file": "04-decision-update.mp4",
+    "originalBytes": 737719,
+    "websiteBytes": 196132,
+    "width": 1872,
+    "height": 1360,
+    "duration": "00:00:06.03"
+  },
+  {
+    "file": "05-save-key-decision.mp4",
+    "originalBytes": 1576460,
+    "websiteBytes": 372711,
+    "width": 1872,
+    "height": 1360,
+    "duration": "00:00:07.03"
+  },
+  {
+    "file": "06-consistency-check.mp4",
+    "originalBytes": 1796752,
+    "websiteBytes": 579296,
+    "width": 1920,
+    "height": 1280,
+    "duration": "00:00:12.03"
+  },
+  {
+    "file": "07-team-confirms.mp4",
+    "originalBytes": 472440,
+    "websiteBytes": 170046,
+    "width": 1872,
+    "height": 1360,
+    "duration": "00:00:07.53"
+  }
+]

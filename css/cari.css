@@ -1,0 +1,369 @@
+/* Cari figure and content styles translated from Figma; no framework dependency. */
+.cari-page .cf0{align-content:stretch;display:flex;flex-direction:column;gap:20px;align-items:flex-start;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf1{overflow-wrap:break-word;font-family:Newsreader,Georgia,serif;font-weight:400;line-height:48px;position:relative;flex-shrink:0;font-size:40px;color:#141414;letter-spacing:-0.4px;width:608px}
+.cari-page .cf2{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:29px;font-style:normal;position:relative;flex-shrink:0;font-size:18px;color:#5c5c5c;letter-spacing:-0.252px;width:608px}
+.cari-page .cf3{border-color:#ebebeb;border-style:solid;border-top-width:1px;align-content:stretch;display:flex;gap:24px;align-items:flex-start;overflow:hidden;padding-top:20px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf4{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;padding-top:64px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf5{align-content:stretch;display:flex;flex-direction:column;gap:32px;align-items:flex-start;padding-top:160px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf6{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;font-family:Inter,Arial,sans-serif;font-weight:400;gap:20px;align-items:flex-start;line-height:26px;font-style:normal;overflow:hidden;padding-left:320px;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:100%}
+.cari-page .cf7{position:relative;flex-shrink:0;width:100%}
+.cari-page .cf8{align-content:stretch;display:flex;flex-direction:column;gap:12px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf9{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;font-style:normal;position:relative;flex-shrink:0;font-size:12px;color:#767676;letter-spacing:0.72px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf10{align-content:stretch;display:flex;flex-direction:column;gap:24px;align-items:flex-start;overflow:hidden;padding-left:320px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf11{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:26px;font-style:normal;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:100%}
+.cari-page .cf12{overflow-wrap:break-word;border-color:#1f6b4f;border-left-width:2px;border-style:solid;align-content:stretch;display:flex;flex-direction:column;gap:6px;align-items:flex-start;font-style:normal;padding-left:20px;padding-block:4px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf13{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:20px;position:relative;flex-shrink:0;font-size:14px;color:#1f6b4f;letter-spacing:-0.084px;white-space:nowrap}
+.cari-page .cf14{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:29px;min-width:100%;position:relative;flex-shrink:0;font-size:18px;color:#141414;letter-spacing:-0.252px;width:min-content}
+.cari-page .cf15{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:20px;align-items:flex-start;overflow:hidden;padding-top:96px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf16{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;font-style:normal;position:relative;flex-shrink:0;font-size:12px;color:#767676;letter-spacing:0.72px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf17{align-content:stretch;display:flex;font-weight:400;gap:24px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf18{border-color:#ebebeb;border-style:solid;border-top-width:1px;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:10px;align-items:flex-start;min-width:1px;overflow:hidden;padding-top:20px;position:relative}
+.cari-page .cf19{align-content:stretch;display:flex;font-family:Newsreader,Georgia,serif;gap:6px;align-items:baseline;overflow:hidden;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf20{line-height:60px;position:relative;flex-shrink:0;font-size:56px;color:#141414;letter-spacing:-1.12px}
+.cari-page .cf21{line-height:normal;position:relative;flex-shrink:0;color:#b8513a;font-size:40px}
+.cari-page .cf22{font-family:Inter,Arial,sans-serif;line-height:26px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:min-content}
+.cari-page .cf23{font-family:Inter,Arial,sans-serif;line-height:19px;font-style:normal;position:relative;flex-shrink:0;font-size:13px;color:#767676;letter-spacing:-0.0325px;white-space:nowrap}
+.cari-page .cf24{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:12px;align-items:flex-start;overflow:hidden;padding-left:320px;padding-top:112px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf25{font-family:Newsreader,Georgia,serif;font-weight:400;font-style:italic;line-height:34px;min-width:100%;position:relative;flex-shrink:0;font-size:24px;color:#141414;letter-spacing:-0.12px;width:min-content}
+.cari-page .cf26{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;font-style:normal;position:relative;flex-shrink:0;font-size:13px;color:#767676;letter-spacing:-0.0325px;width:640px}
+.cari-page .cf27{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:16px;align-items:flex-start;font-style:normal;overflow:hidden;padding-top:96px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf28{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;position:relative;flex-shrink:0;font-size:12px;color:#767676;letter-spacing:0.72px;text-transform:uppercase;width:640px}
+.cari-page .cf29{align-content:stretch;display:flex;gap:24px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf30{border-color:#ebebeb;border-style:solid;border-top-width:1px;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:8px;align-items:flex-start;min-width:1px;overflow:hidden;padding-top:16px;position:relative}
+.cari-page .cf31{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:26px;min-width:100%;position:relative;flex-shrink:0;font-size:18px;color:#141414;letter-spacing:-0.252px;width:min-content}
+.cari-page .cf32{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;min-width:100%;position:relative;flex-shrink:0;font-size:14px;color:#5c5c5c;letter-spacing:-0.084px;width:min-content}
+.cari-page .cf33{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;position:relative;flex-shrink:0;font-size:13px;color:#767676;letter-spacing:-0.0325px;white-space:nowrap}
+.cari-page .cf34{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;position:relative;flex-shrink:0;font-size:14px;color:#5c5c5c;letter-spacing:-0.084px;width:304px}
+.cari-page .cf35{align-content:stretch;display:flex;flex-direction:column;gap:16px;align-items:flex-end;justify-content:flex-end;overflow:hidden;padding-top:56px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf36{background:#f6f5f2;height:440px;overflow:hidden;position:relative;flex-shrink:0;width:960px}
+.cari-page .cf37{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;left:40px;font-style:normal;font-size:12px;color:#a3a19b;top:36px;letter-spacing:0.72px;white-space:nowrap}
+.cari-page .cf38{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:16px;left:40px;font-style:normal;font-size:13px;color:#1e1d1b;top:56px;letter-spacing:-0.039px;white-space:nowrap}
+.cari-page .cf39{position:absolute;background:white;border-width:1px;border-color:#ecebe7;border-style:solid;height:300px;left:40px;overflow:hidden;border-radius:14px;top:96px;width:424px}
+.cari-page .cf40{position:absolute;background:#fdfdfc;align-content:stretch;display:flex;align-items:flex-start;left:-139.26px;min-height:442.43475341796875px;overflow:hidden;top:-107px;width:663.652px}
+.cari-page .cf41{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;justify-content:space-between;overflow:hidden;padding-bottom:14.748px;padding-top:16.591px;padding-inline:11.061px;position:relative;align-self:stretch;flex-shrink:0;width:106.922px}
+.cari-page .cf42{align-content:stretch;display:flex;flex-direction:column;gap:12.904px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf43{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:0.922px;align-items:flex-start;overflow:hidden;padding-left:5.53px;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf44{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:9.678px;position:relative;flex-shrink:0;color:#121211;font-size:6.452px;letter-spacing:-0.0129px}
+.cari-page .cf45{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:8.296px;position:relative;flex-shrink:0;color:#7a7a75;font-size:5.991px}
+.cari-page .cf46{align-content:stretch;display:flex;flex-direction:column;gap:0.922px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf47{background:#f1f1ee;align-content:stretch;display:flex;gap:3.687px;align-items:center;padding-inline:5.53px;position:relative;border-radius:2.765px;flex-shrink:0;width:84.8px}
+.cari-page .cf48{overflow-wrap:break-word;flex:1 0 0;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:9.678px;min-width:1px;position:relative;color:#121211;font-size:6.452px;letter-spacing:-0.0129px}
+.cari-page .cf49{align-content:stretch;display:flex;gap:3.687px;align-items:center;padding-inline:5.53px;position:relative;border-radius:2.765px;flex-shrink:0;width:84.8px}
+.cari-page .cf50{overflow-wrap:break-word;flex:1 0 0;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:9.678px;min-width:1px;position:relative;color:#63635e;font-size:6.452px;letter-spacing:-0.0129px}
+.cari-page .cf51{position:relative;flex-shrink:0;width:3.687px;height:3.687px}
+.cari-page .cf52{position:absolute;display:block;inset:0;max-width:none;width:100%;height:100%}
+.cari-page .cf53{align-content:stretch;display:flex;align-items:flex-start;overflow:hidden;padding-left:5.53px;position:relative;flex-shrink:0}
+.cari-page .cf54{align-content:stretch;display:flex;gap:4.609px;align-items:center;position:relative;flex-shrink:0}
+.cari-page .cf55{background:#f1f1ee;border-width:0.691px;border-style:solid;border-color:white;align-content:stretch;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;border-radius:5.53px;flex-shrink:0;width:11.061px;height:11.061px}
+.cari-page .cf56{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:6.452px;position:relative;flex-shrink:0;color:#63635e;font-size:4.609px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf57{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf58{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:25.809px;align-items:flex-start;min-width:1px;overflow:hidden;padding-bottom:55.304px;padding-top:33.183px;padding-inline:40.557px;position:relative}
+.cari-page .cf59{align-content:stretch;display:flex;flex-direction:column;gap:9.217px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf60{overflow-wrap:break-word;align-content:stretch;display:flex;font-family:Inter,Arial,sans-serif;font-weight:400;gap:3.687px;align-items:flex-start;line-height:8.296px;overflow:hidden;position:relative;flex-shrink:0;font-size:5.991px;white-space:nowrap}
+.cari-page .cf61{position:relative;flex-shrink:0;color:#7a7a75}
+.cari-page .cf62{position:relative;flex-shrink:0;color:#63635e}
+.cari-page .cf63{align-content:stretch;display:flex;flex-direction:column;gap:4.609px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf64{overflow-wrap:break-word;font-family:Newsreader,Georgia,serif;font-weight:400;line-height:23.043px;position:relative;flex-shrink:0;color:#121211;font-size:20.278px;letter-spacing:-0.3042px;white-space:nowrap}
+.cari-page .cf65{align-content:stretch;display:flex;gap:9.217px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf66{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:9.678px;position:relative;flex-shrink:0;color:#63635e;font-size:6.452px;letter-spacing:-0.0129px;white-space:nowrap}
+.cari-page .cf67{background:#e9e9e4;height:6.452px;position:relative;flex-shrink:0;width:0.461px}
+.cari-page .cf68{align-content:stretch;display:flex;gap:3.687px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf69{align-content:stretch;display:flex;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf70{align-content:stretch;display:flex;align-items:center;margin-right:-2.765px;position:relative;flex-shrink:0}
+.cari-page .cf71{align-content:stretch;display:flex;align-items:center;position:relative;flex-shrink:0}
+.cari-page .cf72{align-content:stretch;display:flex;flex-direction:column;gap:6.452px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf73{align-content:stretch;display:flex;flex-direction:column;gap:5.53px;align-items:flex-start;position:relative;flex-shrink:0;width:405.565px}
+.cari-page .cf74{align-content:stretch;display:flex;gap:7.374px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf75{overflow-wrap:break-word;flex:1 0 0;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:6.452px;min-width:1px;position:relative;color:#7a7a75;font-size:5.07px;letter-spacing:0.3042px;text-transform:uppercase}
+.cari-page .cf76{overflow-wrap:break-word;align-content:stretch;display:flex;gap:14.748px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf77{align-content:stretch;display:flex;gap:2.765px;align-items:baseline;position:relative;flex-shrink:0}
+.cari-page .cf78{border-color:#121211;border-left-width:0.922px;border-style:solid;align-content:stretch;display:flex;flex-direction:column;gap:2.765px;align-items:flex-start;padding-left:9.217px;padding-block:0.922px;position:relative;flex-shrink:0;width:294.957px}
+.cari-page .cf79{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:6.452px;position:relative;flex-shrink:0;color:#7a7a75;font-size:5.07px;letter-spacing:0.3042px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf80{overflow-wrap:break-word;font-family:Newsreader,Georgia,serif;font-weight:400;line-height:12.904px;min-width:100%;position:relative;flex-shrink:0;color:#121211;font-size:10.139px;letter-spacing:-0.0507px;width:min-content}
+.cari-page .cf81{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:9.678px;min-width:100%;position:relative;flex-shrink:0;color:#63635e;font-size:6.452px;letter-spacing:-0.0129px;width:min-content}
+.cari-page .cf82{align-content:center;display:flex;flex-wrap:wrap;gap:1.8434782028198242px 7.374px;align-items:center;overflow:hidden;padding-top:2.765px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf83{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:8.296px;position:relative;flex-shrink:0;color:#63635e;font-size:5.991px;white-space:nowrap}
+.cari-page .cf84{align-content:stretch;display:flex;gap:2.765px;align-items:center;padding-block:3.687px;position:relative;border-radius:2.765px;flex-shrink:0}
+.cari-page .cf85{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:9.678px;position:relative;flex-shrink:0;color:#63635e;font-size:6.452px;letter-spacing:-0.0129px;white-space:nowrap}
+.cari-page .cf86{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf87{background:#e9e9e4;height:0.461px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf88{border-color:#e9e9e4;border-bottom-width:0.461px;border-style:solid;align-content:stretch;display:flex;gap:11.061px;align-items:center;padding-block:8.296px;position:relative;flex-shrink:0;width:405.565px}
+.cari-page .cf89{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:9.678px;position:relative;flex-shrink:0;color:#121211;font-size:6.452px;letter-spacing:-0.0129px;width:101.391px}
+.cari-page .cf90{align-content:stretch;display:flex;gap:3.687px;align-items:center;overflow:hidden;position:relative;flex-shrink:0;width:55.304px}
+.cari-page .cf91{overflow-wrap:break-word;align-content:stretch;display:flex;flex:1 0 0;font-family:Inter,Arial,sans-serif;font-weight:400;gap:2.765px;align-items:baseline;line-height:8.296px;min-width:1px;overflow:hidden;position:relative;font-size:5.991px;white-space:nowrap}
+.cari-page .cf92{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:8.296px;position:relative;flex-shrink:0;color:#7a7a75;font-size:5.991px;white-space:nowrap}
+.cari-page .cf93{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:8.296px;position:relative;flex-shrink:0;color:#121211;font-size:5.991px;white-space:nowrap}
+.cari-page .cf94{align-content:stretch;display:flex;flex:1 0 0;gap:2.765px;align-items:baseline;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf95{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;left:496px;font-style:normal;font-size:12px;color:#a3a19b;top:36px;letter-spacing:0.72px;white-space:nowrap}
+.cari-page .cf96{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:16px;left:496px;font-style:normal;font-size:13px;color:#1e1d1b;top:56px;letter-spacing:-0.039px;white-space:nowrap}
+.cari-page .cf97{position:absolute;background:white;border-width:1px;border-color:#ecebe7;border-style:solid;height:300px;left:496px;overflow:hidden;border-radius:14px;top:96px;width:424px}
+.cari-page .cf98{position:absolute;background:white;align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;left:-35.19px;overflow:hidden;top:-113.84px;width:492.387px}
+.cari-page .cf99{background:white;align-content:stretch;display:flex;align-items:center;justify-content:space-between;padding-inline:41.032px;padding-block:8.206px;position:relative;flex-shrink:0;width:492.387px}
+.cari-page .cf100{align-content:stretch;display:flex;gap:9.574px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf101{height:8.89px;position:relative;flex-shrink:0;width:15.045px}
+.cari-page .cf102{overflow-wrap:break-word;position:absolute;font-family:Urbanist,Inter,sans-serif;font-weight:600;line-height:1;left:0;font-size:8.89px;color:#1e1d1b;top:0;letter-spacing:-0.1778px;white-space:nowrap}
+.cari-page .cf103{position:absolute;left:12.5px;width:1.757px;height:1.757px;top:0.46px}
+.cari-page .cf104{background:#efeeea;align-content:stretch;display:flex;gap:0.684px;align-items:flex-start;padding:1.026px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf105{background:white;align-content:stretch;display:flex;gap:2.052px;align-items:center;padding-inline:4.787px;padding-block:2.394px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf106{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#1e1d1b;letter-spacing:-0.0134px;white-space:nowrap}
+.cari-page .cf107{align-content:stretch;display:flex;gap:2.052px;align-items:center;padding-inline:4.787px;padding-block:2.394px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf108{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#6e6c67;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf109{align-content:stretch;display:flex;gap:4.103px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf110{background:#efeeea;align-content:stretch;display:flex;gap:2.735px;align-items:center;padding-inline:5.471px;padding-block:3.077px;position:relative;border-radius:341.594px;flex-shrink:0;width:75.226px}
+.cari-page .cf111{position:relative;flex-shrink:0;width:4.787px;height:4.787px}
+.cari-page .cf112{overflow-wrap:break-word;flex:1 0 0;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;min-width:1px;font-style:normal;position:relative;font-size:4.45px;color:#a3a19b;letter-spacing:-0.0089px}
+.cari-page .cf113{background:#e3e0f0;align-content:stretch;display:flex;align-items:center;justify-content:center;position:relative;border-radius:341.594px;flex-shrink:0;width:11.626px;height:11.626px}
+.cari-page .cf114{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:3.76px;color:#6e6c67;white-space:nowrap}
+.cari-page .cf115{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;padding-bottom:41.032px;padding-top:13.677px;padding-inline:41.032px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf116{overflow-wrap:break-word;align-content:stretch;display:flex;font-family:Inter,Arial,sans-serif;font-weight:500;gap:2.052px;align-items:flex-start;line-height:5.471px;font-style:normal;overflow:hidden;position:relative;flex-shrink:0;font-size:4.103px;white-space:nowrap}
+.cari-page .cf117{position:relative;flex-shrink:0;color:#a3a19b}
+.cari-page .cf118{position:relative;flex-shrink:0;color:#6e6c67}
+.cari-page .cf119{height:4.787px;position:relative;flex-shrink:0;width:3.419px}
+.cari-page .cf120{align-content:stretch;display:flex;gap:8.206px;align-items:flex-end;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf121{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:2.735px;align-items:flex-start;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf122{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:12.994px;font-style:normal;position:relative;flex-shrink:0;font-size:10.942px;color:#1e1d1b;letter-spacing:-0.2407px;white-space:nowrap}
+.cari-page .cf123{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:7.865px;font-style:normal;position:relative;flex-shrink:0;font-size:5.129px;color:#6e6c67;letter-spacing:-0.0154px;white-space:nowrap}
+.cari-page .cf124{align-content:stretch;display:flex;gap:3.419px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf125{align-content:stretch;display:flex;isolation:isolate;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf126{background:#dde6df;border-width:0.684px;border-color:white;border-style:solid;align-content:stretch;display:flex;align-items:center;justify-content:center;margin-right:-2.052px;position:relative;border-radius:341.594px;flex-shrink:0;width:7.523px;height:7.523px;z-index:4}
+.cari-page .cf127{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:3.419px;font-style:normal;position:relative;flex-shrink:0;font-size:2.74px;color:#6e6c67;white-space:nowrap}
+.cari-page .cf128{background:#e9e1d5;border-width:0.684px;border-color:white;border-style:solid;align-content:stretch;display:flex;align-items:center;justify-content:center;margin-right:-2.052px;position:relative;border-radius:341.594px;flex-shrink:0;width:7.523px;height:7.523px;z-index:3}
+.cari-page .cf129{background:#e3e0f0;border-width:0.684px;border-color:white;border-style:solid;align-content:stretch;display:flex;align-items:center;justify-content:center;margin-right:-2.052px;position:relative;border-radius:341.594px;flex-shrink:0;width:7.523px;height:7.523px;z-index:2}
+.cari-page .cf130{background:#f1e0e0;border-width:0.684px;border-color:white;border-style:solid;align-content:stretch;display:flex;align-items:center;justify-content:center;position:relative;border-radius:341.594px;flex-shrink:0;width:7.523px;height:7.523px;z-index:1}
+.cari-page .cf131{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.445px;color:#6e6c67;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf132{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.445px;color:#a3a19b;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf133{align-content:stretch;display:flex;gap:3.419px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf134{background:#efeeea;align-content:stretch;display:flex;height:12.31px;align-items:center;justify-content:center;padding-inline:5.471px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf135{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#1e1d1b;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf136{background:#262421;align-content:stretch;display:flex;height:12.31px;align-items:center;justify-content:center;padding-inline:5.471px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf137{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:white;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf138{height:15.045px;position:relative;flex-shrink:0;width:3.419px}
+.cari-page .cf139{align-content:stretch;display:flex;gap:4.103px;align-items:center;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf140{overflow-wrap:break-word;align-content:stretch;display:flex;flex:1 0 0;gap:3.419px;align-items:baseline;min-width:1px;font-style:normal;overflow:hidden;position:relative;white-space:nowrap}
+.cari-page .cf141{font-family:Inter,Arial,sans-serif;font-weight:600;line-height:7.181px;position:relative;flex-shrink:0;font-size:5.471px;color:#1e1d1b;letter-spacing:-0.0492px}
+.cari-page .cf142{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:6.155px;position:relative;flex-shrink:0;font-size:4.445px;color:#a3a19b;letter-spacing:-0.0089px}
+.cari-page .cf143{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:6.155px;position:relative;flex-shrink:0;font-size:4.445px;color:#6e6c67;letter-spacing:-0.0089px}
+.cari-page .cf144{align-content:stretch;display:flex;height:12.31px;align-items:center;justify-content:center;padding-inline:5.471px;position:relative;border-radius:341.594px;flex-shrink:0}
+.cari-page .cf145{height:5.471px;position:relative;flex-shrink:0;width:3.419px}
+.cari-page .cf146{align-content:flex-start;display:flex;flex-wrap:wrap;gap:8.206451416015625px 8.206px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf147{background:white;border-width:0.342px;border-color:#ecebe7;border-style:solid;align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;padding-inline:6.155px;padding-block:5.471px;position:relative;border-radius:5.471px;flex-shrink:0;width:96.426px}
+.cari-page .cf148{align-content:stretch;display:flex;gap:2.735px;align-items:center;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf149{align-content:stretch;display:flex;flex:1 0 0;gap:2.052px;align-items:center;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf150{position:relative;border-radius:1.71px;flex-shrink:0;width:6.155px;height:6.155px}
+.cari-page .cf151{position:absolute;inset:0;pointer-events:none;border-radius:1.71px}
+.cari-page .cf152{position:absolute;background:#fff;inset:0;border-radius:1.71px}
+.cari-page .cf153{position:absolute;inset:0;overflow:hidden;border-radius:1.71px}
+.cari-page .cf154{position:absolute;height:117.86%;left:-28.57%;max-width:none;top:-8.93%;width:157.14%}
+.cari-page .cf155{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.1px;color:#6e6c67;white-space:nowrap}
+.cari-page .cf156{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#a3a19b;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf157{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:5.471px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#1e1d1b;letter-spacing:-0.0134px;width:min-content}
+.cari-page .cf158{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:6.155px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:4.45px;color:#a3a19b;letter-spacing:-0.0089px;width:min-content}
+.cari-page .cf159{position:absolute;background:rgba(255,255,255,0.2);inset:0;border-radius:1.71px}
+.cari-page .cf160{position:absolute;height:116.67%;left:-27.78%;max-width:none;top:-8.33%;width:155.56%}
+.cari-page .cf161{position:absolute;height:115.18%;left:-26.93%;max-width:none;top:-7.59%;width:153.57%}
+.cari-page .cf162{position:absolute;height:85.48%;left:-7.73%;max-width:none;top:7.26%;width:113.98%}
+.cari-page .cf163{position:absolute;background:#1e1e1e;inset:0;border-radius:1.71px}
+.cari-page .cf164{position:absolute;left:-16.2%;max-width:none;width:136.92%;height:136.92%;top:-16.08%}
+.cari-page .cf165{position:absolute;background:#0161fe;inset:0;border-radius:1.71px}
+.cari-page .cf166{position:absolute;max-width:none;object-fit:cover;border-radius:1.71px;width:100%;height:100%}
+.cari-page .cf167{height:16.413px;position:relative;flex-shrink:0;width:3.419px}
+.cari-page .cf168{align-content:stretch;display:flex;gap:16.413px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf169{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:4.787px;align-items:flex-start;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf170{overflow-wrap:break-word;align-content:stretch;display:flex;gap:3.419px;align-items:baseline;font-style:normal;overflow:hidden;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf171{background:white;border-width:0.342px;border-color:#ecebe7;border-style:solid;align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;position:relative;border-radius:5.471px;flex-shrink:0;width:100%}
+.cari-page .cf172{background:white;border-width:0;border-color:#ecebe7;border-style:solid;align-content:stretch;display:flex;gap:4.787px;align-items:flex-start;padding-inline:6.839px;padding-block:5.471px;position:relative;flex-shrink:0;width:263.29px}
+.cari-page .cf173{position:relative;border-radius:2.735px;flex-shrink:0;width:9.574px;height:9.574px}
+.cari-page .cf174{position:absolute;inset:0;pointer-events:none;border-radius:2.735px}
+.cari-page .cf175{position:absolute;background:#fff;inset:0;border-radius:2.735px}
+.cari-page .cf176{position:absolute;inset:0;overflow:hidden;border-radius:2.735px}
+.cari-page .cf177{position:absolute;height:107.14%;left:-21.43%;max-width:none;top:-3.57%;width:142.86%}
+.cari-page .cf178{overflow-wrap:break-word;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:1.026px;align-items:flex-start;min-width:1px;font-style:normal;overflow:hidden;position:relative}
+.cari-page .cf179{font-family:Inter,Arial,sans-serif;font-weight:600;line-height:7.181px;min-width:100%;position:relative;flex-shrink:0;font-size:5.47px;color:#1e1d1b;letter-spacing:-0.0492px;width:min-content}
+.cari-page .cf180{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:6.155px;min-width:100%;position:relative;flex-shrink:0;font-size:4.45px;color:#6e6c67;letter-spacing:-0.0089px;width:min-content}
+.cari-page .cf181{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;position:relative;flex-shrink:0;font-size:4.1px;color:#a3a19b;white-space:nowrap}
+.cari-page .cf182{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;padding-top:1.368px;position:relative;flex-shrink:0}
+.cari-page .cf183{background:white;border-color:#ecebe7;border-style:solid;border-top-width:0.342px;align-content:stretch;display:flex;gap:4.787px;align-items:flex-start;padding-inline:6.839px;padding-block:5.471px;position:relative;flex-shrink:0;width:263.29px}
+.cari-page .cf184{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:5.471px;font-style:normal;position:relative;flex-shrink:0;font-size:4.445px;color:#1e1d1b;letter-spacing:-0.0089px;white-space:nowrap}
+.cari-page .cf185{align-content:stretch;display:flex;flex-direction:column;gap:4.787px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:129.935px}
+.cari-page .cf186{background:#fbf0c9;align-content:stretch;display:flex;gap:2.735px;align-items:center;overflow:hidden;padding-left:4.787px;padding-right:4.103px;padding-block:4.103px;position:relative;border-radius:5.471px;flex-shrink:0;width:100%}
+.cari-page .cf187{position:relative;flex-shrink:0;width:2.394px;height:2.394px}
+.cari-page .cf188{overflow-wrap:break-word;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:0.342px;align-items:flex-start;min-width:1px;font-style:normal;overflow:hidden;position:relative;font-size:4.445px;white-space:nowrap}
+.cari-page .cf189{font-family:Inter,Arial,sans-serif;font-weight:600;line-height:5.471px;position:relative;flex-shrink:0;color:#1e1d1b;letter-spacing:-0.0133px}
+.cari-page .cf190{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:6.155px;position:relative;flex-shrink:0;color:#6e6c67;letter-spacing:-0.0089px}
+.cari-page .cf191{background:white;border-width:0;border-color:#ecebe7;border-style:solid;align-content:stretch;display:flex;gap:4.787px;align-items:flex-start;padding-inline:6.839px;padding-block:5.471px;position:relative;flex-shrink:0;width:129.252px}
+.cari-page .cf192{position:relative;flex-shrink:0;width:9.574px;height:9.574px}
+.cari-page .cf193{background:white;border-color:#ecebe7;border-style:solid;border-top-width:0.342px;align-content:stretch;display:flex;gap:4.787px;align-items:flex-start;padding-inline:6.839px;padding-block:5.471px;position:relative;flex-shrink:0;width:129.252px}
+.cari-page .cf194{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:21px;left:472px;font-style:normal;font-size:16px;color:#a3a19b;top:235.5px;letter-spacing:-0.144px;white-space:nowrap}
+.cari-page .cf195{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;font-style:normal;position:relative;flex-shrink:0;font-size:13px;color:#767676;text-align:right;letter-spacing:-0.0325px;width:615px}
+.cari-page .cf196{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:8px;align-items:flex-start;font-style:normal;overflow:hidden;position:relative;flex-shrink:0;color:#767676;white-space:nowrap}
+.cari-page .cf197{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;position:relative;flex-shrink:0;font-size:12px;letter-spacing:0.72px;text-transform:uppercase}
+.cari-page .cf198{text-underline-position:from-font;display:block;cursor:pointer;text-decoration-thickness:from-font;text-decoration-style:solid;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;position:relative;flex-shrink:0;font-size:13px;letter-spacing:-0.0325px;text-decoration:underline}
+.cari-page .cf199{align-content:stretch;display:flex;flex-direction:column;gap:32px;align-items:flex-start;padding-top:200px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf200{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:20px;align-items:flex-start;font-style:normal;overflow:hidden;padding-left:320px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf201{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:26px;min-width:100%;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:min-content}
+.cari-page .cf202{align-content:stretch;display:flex;gap:28px;align-items:flex-start;overflow:hidden;padding-top:8px;position:relative;flex-shrink:0;font-size:14px;letter-spacing:-0.084px;white-space:nowrap}
+.cari-page .cf203{align-content:stretch;display:flex;gap:8px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf204{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;position:relative;flex-shrink:0;color:#767676}
+.cari-page .cf205{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:20px;position:relative;flex-shrink:0;color:#141414}
+.cari-page .cf206{align-content:stretch;display:flex;flex-direction:column;gap:16px;align-items:flex-start;overflow:hidden;padding-top:40px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf207{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:26px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:18px;color:#141414;letter-spacing:-0.252px;width:min-content}
+.cari-page .cf208{background:#f5f5f4;border-width:1px;border-color:#ebebeb;border-style:solid;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:6px;align-items:flex-start;min-width:1px;overflow:hidden;padding:16px;position:relative;border-radius:14px}
+.cari-page .cf209{background:#fff;height:104px;overflow:hidden;position:relative;border-radius:10px;flex-shrink:0;width:100%}
+.cari-page .cf210{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:78px;left:58px;border-radius:4px;top:14px;width:60px}
+.cari-page .cf211{position:absolute;background:#ebebeb;height:5px;left:66px;border-radius:2px;top:24px;width:36px}
+.cari-page .cf212{position:absolute;background:#ebebeb;height:5px;left:66px;border-radius:2px;top:34px;width:44px}
+.cari-page .cf213{position:absolute;background:#ebebeb;height:5px;left:66px;border-radius:2px;top:44px;width:30px}
+.cari-page .cf214{position:absolute;background:#f5f5f4;height:24px;left:66px;border-radius:3px;top:58px;width:44px}
+.cari-page .cf215{position:absolute;border-width:1.2px;border-color:#141414;border-style:solid;height:16px;left:108px;border-radius:8px;top:20px;width:40px}
+.cari-page .cf216{position:absolute;border-width:1.2px;border-color:#141414;border-style:solid;height:16px;left:112px;border-radius:8px;top:48px;width:34px}
+.cari-page .cf217{position:absolute;left:104px;width:6px;height:6px;top:32px}
+.cari-page .cf218{position:absolute;left:108px;width:6px;height:6px;top:60px}
+.cari-page .cf219{height:6px;position:relative;flex-shrink:0;width:10px}
+.cari-page .cf220{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:20px;font-style:normal;position:relative;flex-shrink:0;font-size:14px;color:#141414;letter-spacing:-0.084px;white-space:nowrap}
+.cari-page .cf221{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;font-style:normal;position:relative;flex-shrink:0;font-size:14px;color:#767676;letter-spacing:-0.084px;white-space:nowrap}
+.cari-page .cf222{position:absolute;background:#ebebeb;height:12px;left:50px;border-radius:3px;top:22px;width:36px}
+.cari-page .cf223{position:absolute;border-width:1.2px;border-color:#141414;border-style:solid;height:60px;left:50px;border-radius:6px;top:30px;width:90px}
+.cari-page .cf224{position:absolute;background:#f5f5f4;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:26px;left:60px;border-radius:3px;top:42px;width:20px}
+.cari-page .cf225{position:absolute;background:#f5f5f4;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:26px;left:86px;border-radius:3px;top:42px;width:20px}
+.cari-page .cf226{position:absolute;background:#f5f5f4;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:26px;left:112px;border-radius:3px;top:42px;width:20px}
+.cari-page .cf227{position:absolute;background:#ebebeb;height:6px;left:28px;border-radius:2px;top:16px;width:40px}
+.cari-page .cf228{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:28px;border-radius:4px;top:28px;width:40px}
+.cari-page .cf229{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:28px;border-radius:4px;top:50px;width:40px}
+.cari-page .cf230{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:28px;border-radius:4px;top:72px;width:40px}
+.cari-page .cf231{position:absolute;background:#ebebeb;height:6px;left:74px;border-radius:2px;top:16px;width:40px}
+.cari-page .cf232{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:74px;border-radius:4px;top:28px;width:40px}
+.cari-page .cf233{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:74px;border-radius:4px;top:50px;width:40px}
+.cari-page .cf234{position:absolute;background:#ebebeb;height:6px;left:120px;border-radius:2px;top:16px;width:40px}
+.cari-page .cf235{position:absolute;border-width:1.2px;border-color:#ebebeb;border-style:solid;height:18px;left:120px;border-radius:4px;top:28px;width:40px}
+.cari-page .cf236{background:#fff;border-width:1.5px;border-color:#1f6b4f;border-style:solid;align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:6px;align-items:flex-start;min-width:1px;overflow:hidden;padding:16px;position:relative;border-radius:14px}
+.cari-page .cf237{background:#e8e6e1;height:104px;overflow:hidden;position:relative;border-radius:10px;flex-shrink:0;width:100%}
+.cari-page .cf238{position:absolute;border-width:1.2px;border-color:white;border-style:solid;height:30px;left:14px;border-radius:6px;top:34px;width:52px}
+.cari-page .cf239{position:absolute;background:white;height:4px;left:20px;border-radius:2px;top:42px;width:30px}
+.cari-page .cf240{position:absolute;background:white;height:4px;left:20px;border-radius:2px;top:51px;width:22px}
+.cari-page .cf241{position:absolute;height:0;left:66px;top:49px;width:20px}
+.cari-page .cf242{position:absolute;inset:-0.75px 0}
+.cari-page .cf243{display:block;max-width:none;width:100%;height:100%}
+.cari-page .cf244{position:absolute;background:#1f6b4f;height:26px;left:86px;border-radius:13px;top:36px;width:30px}
+.cari-page .cf245{position:absolute;height:0;left:116px;top:49px;width:18px}
+.cari-page .cf246{position:absolute;border-width:1.2px;border-color:#1f6b4f;border-style:solid;height:30px;left:134px;border-radius:6px;top:34px;width:44px}
+.cari-page .cf247{position:absolute;background:#1f6b4f;height:4px;left:140px;border-radius:2px;top:42px;width:26px}
+.cari-page .cf248{position:absolute;background:white;height:4px;left:140px;border-radius:2px;top:51px;width:18px}
+.cari-page .cf249{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:20px;font-style:normal;position:relative;flex-shrink:0;font-size:14px;color:#1f6b4f;letter-spacing:-0.084px;white-space:nowrap}
+.cari-page .cf250{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;font-style:normal;position:relative;flex-shrink:0;font-size:13px;color:#767676;letter-spacing:-0.0325px;width:615px}
+.cari-page .cf251{align-content:stretch;display:flex;gap:24px;align-items:flex-start;overflow:hidden;padding-top:24px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf252{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:10px;align-items:flex-start;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf253{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:6px;align-items:flex-start;font-style:normal;overflow:hidden;padding-top:8px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf254{font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;position:relative;flex-shrink:0;font-size:12px;color:#1f6b4f;letter-spacing:0.72px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf255{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:19px;min-width:100%;position:relative;flex-shrink:0;font-size:13px;color:#767676;letter-spacing:-0.0325px;width:min-content}
+.cari-page .cf256{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;min-width:100%;position:relative;flex-shrink:0;font-size:14px;color:#141414;letter-spacing:-0.084px;width:min-content}
+.cari-page .cf257{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;padding-top:96px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf258{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;gap:6px;align-items:flex-start;font-style:normal;overflow:hidden;padding-top:18px;position:relative;flex-shrink:0;width:640px}
+.cari-page .cf259{align-content:stretch;display:flex;gap:24px;align-items:flex-start;overflow:hidden;padding-top:96px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf260{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:8px;align-items:flex-start;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf261{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;font-style:normal;position:relative;flex-shrink:0;font-size:12px;color:#1f6b4f;letter-spacing:0.72px;text-transform:uppercase;white-space:nowrap}
+.cari-page .cf262{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:26px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:min-content}
+.cari-page .cf263{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;min-width:100%;font-style:normal;position:relative;flex-shrink:0;font-size:14px;color:#767676;letter-spacing:-0.084px;width:min-content}
+.cari-page .cf264{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;padding-top:20px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf265{align-content:stretch;display:flex;flex-direction:column;gap:32px;align-items:flex-start;padding-top:120px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf266{align-content:stretch;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden;padding-left:320px;position:relative;flex-shrink:0;width:100%}
+.cari-page .cf267{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:29px;font-style:normal;position:relative;flex-shrink:0;font-size:18px;color:#141414;letter-spacing:-0.252px;width:100%}
+.cari-page .cf268{background:#f5f5f4;align-content:stretch;display:flex;gap:32px;align-items:center;justify-content:center;overflow:hidden;padding:32px;position:relative;flex-shrink:0;width:960px}
+.cari-page .cf269{background:white;align-content:stretch;display:flex;flex-direction:column;gap:16px;align-items:flex-start;overflow:hidden;padding:24px;position:relative;border-radius:12px;flex-shrink:0;width:592px}
+.cari-page .cf270{align-content:stretch;display:flex;flex-direction:column;gap:12px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0;width:544px}
+.cari-page .cf271{overflow-wrap:break-word;height:43px;font-style:normal;position:relative;flex-shrink:0;width:340px;white-space:nowrap}
+.cari-page .cf272{position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:21px;left:0;color:#1e1d1b;font-size:16px;top:0}
+.cari-page .cf273{position:absolute;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:18px;left:0;color:#6e6c67;font-size:13px;top:25px}
+.cari-page .cf274{align-content:stretch;display:flex;gap:24px;align-items:flex-start;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf275{height:22px;position:relative;flex-shrink:0;width:138px}
+.cari-page .cf276{position:absolute;height:22px;left:0;top:0;width:70px}
+.cari-page .cf277{position:absolute;background:#dde6df;border-width:2px;border-style:solid;border-color:white;left:0;border-radius:999px;width:22px;height:22px;top:0}
+.cari-page .cf278{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:10px;left:3px;font-style:normal;color:#6e6c67;font-size:8px;top:4px;white-space:nowrap}
+.cari-page .cf279{position:absolute;background:#e9e1d5;border-width:2px;border-style:solid;border-color:white;left:16px;border-radius:999px;width:22px;height:22px;top:0}
+.cari-page .cf280{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:10px;left:2.5px;font-style:normal;color:#6e6c67;font-size:8px;top:4px;white-space:nowrap}
+.cari-page .cf281{position:absolute;background:#e3e0f0;border-width:2px;border-style:solid;border-color:white;left:32px;border-radius:999px;width:22px;height:22px;top:0}
+.cari-page .cf282{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:10px;left:4px;font-style:normal;color:#6e6c67;font-size:8px;top:4px;white-space:nowrap}
+.cari-page .cf283{position:absolute;background:#f1e0e0;border-width:2px;border-style:solid;border-color:white;left:48px;border-radius:999px;width:22px;height:22px;top:0}
+.cari-page .cf284{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:10px;left:4.5px;font-style:normal;color:#6e6c67;font-size:8px;top:4px;white-space:nowrap}
+.cari-page .cf285{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:18px;left:78px;font-style:normal;color:#6e6c67;font-size:13px;top:2px;white-space:nowrap}
+.cari-page .cf286{background:#fbf0c9;height:24px;position:relative;border-radius:999px;flex-shrink:0;width:224px}
+.cari-page .cf287{position:absolute;left:8px;width:6px;height:6px;top:9px}
+.cari-page .cf288{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;left:20px;font-style:normal;color:#1e1d1b;font-size:12px;top:4px;white-space:nowrap}
+.cari-page .cf289{border-color:#ebebeb;border-style:solid;border-top-width:1px;align-content:stretch;display:flex;flex-direction:column;gap:12px;align-items:flex-start;overflow:hidden;padding-top:16px;position:relative;flex-shrink:0;width:544px}
+.cari-page .cf290{align-content:stretch;display:flex;gap:12px;align-items:center;overflow:hidden;position:relative;flex-shrink:0}
+.cari-page .cf291{background:#e9e1d5;position:relative;border-radius:999px;flex-shrink:0;width:34px;height:34px}
+.cari-page .cf292{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:16px;left:8.5px;font-style:normal;color:#6e6c67;font-size:11px;top:9px;white-space:nowrap}
+.cari-page .cf293{height:42px;position:relative;flex-shrink:0;width:250px}
+.cari-page .cf294{position:absolute;height:22px;left:0;top:0;width:152px}
+.cari-page .cf295{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:600;line-height:21px;left:0;font-style:normal;color:#1e1d1b;font-size:16px;top:0.5px;white-space:nowrap}
+.cari-page .cf296{position:absolute;border-width:1px;border-color:#d6d4cf;border-style:solid;height:22px;left:105px;border-radius:999px;top:0;width:53px}
+.cari-page .cf297{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;left:8px;font-style:normal;color:#6e6c67;font-size:12px;top:2px;white-space:nowrap}
+.cari-page .cf298{overflow-wrap:break-word;position:absolute;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:18px;left:0;font-style:normal;color:#6e6c67;font-size:13px;top:24px;white-space:nowrap}
+.cari-page .cf299{overflow-wrap:break-word;height:36px;font-style:normal;position:relative;flex-shrink:0;width:400px;white-space:nowrap}
+.cari-page .cf300{position:absolute;font-family:Inter,Arial,sans-serif;font-weight:500;line-height:16px;left:0;color:#a3a19b;font-size:12px;top:0}
+.cari-page .cf301{position:absolute;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:18px;left:0;color:#6e6c67;font-size:13px;top:18px}
+.cari-page .cf302{background:#f6f5f2;height:582px;overflow:hidden;position:relative;flex-shrink:0;width:960px}
+.cari-page .cf303{position:absolute;background:#fff;border-width:1px;border-color:#ecebe7;border-style:solid;height:470px;left:40px;overflow:hidden;border-radius:14px;box-shadow:0px 12px 32px 0px rgba(0,0,0,0.07);top:72px;width:424px}
+.cari-page .cf304{position:absolute;height:497px;left:-1px;top:-1px;width:424px}
+.cari-page .cf305{position:absolute;inset:0;max-width:none;object-fit:cover;pointer-events:none;width:100%;height:100%}
+.cari-page .cf306{position:absolute;background:#fff;border-width:1px;border-color:#ecebe7;border-style:solid;height:470px;left:496px;overflow:hidden;border-radius:14px;box-shadow:0px 12px 32px 0px rgba(0,0,0,0.07);top:72px;width:424px}
+.cari-page .cf307{position:absolute;height:2063px;left:-1px;top:-1px;width:424px}
+.cari-page .cf308{background:#f6f5f2;height:452px;overflow:hidden;position:relative;flex-shrink:0;width:960px}
+.cari-page .cf309{position:absolute;background:#fff;border-width:1px;border-color:#ecebe7;border-style:solid;height:340px;left:40px;overflow:hidden;border-radius:14px;box-shadow:0px 12px 32px 0px rgba(0,0,0,0.07);top:72px;width:424px}
+.cari-page .cf310{position:absolute;height:328px;left:6px;top:5px;width:410px}
+.cari-page .cf311{position:absolute;background:#fff;border-width:1px;border-color:#ecebe7;border-style:solid;height:340px;left:496px;overflow:hidden;border-radius:14px;box-shadow:0px 12px 32px 0px rgba(0,0,0,0.07);top:72px;width:424px}
+.cari-page .cf312{position:absolute;height:327px;left:7px;top:5px;width:408px}
+.cari-page .cf313{align-content:stretch;display:flex;flex-direction:column;gap:32px;align-items:flex-start;padding-top:240px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf314{overflow-wrap:break-word;font-family:Inter,Arial,sans-serif;font-weight:400;line-height:0;font-style:normal;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:100%;white-space:pre-wrap}
+.cari-page .cf315{line-height:26px;margin-bottom:0}
+.cari-page .cf316{line-height:26px}
+.cari-page .cf317{overflow-wrap:break-word;align-content:stretch;display:flex;flex-direction:column;font-family:Inter,Arial,sans-serif;font-weight:400;gap:20px;align-items:flex-start;font-style:normal;padding-left:320px;position:relative;width:100%;height:100%;height:auto;width:100%;max-width:100%}
+.cari-page .cf318{line-height:29px;position:relative;flex-shrink:0;font-size:18px;color:#141414;letter-spacing:-0.252px;width:100%}
+.cari-page .cf319{line-height:26px;position:relative;flex-shrink:0;font-size:16px;color:#5c5c5c;letter-spacing:-0.176px;width:100%}
+.cari-page .cf320{display:block;cursor:pointer;line-height:21px;position:relative;flex-shrink:0;color:#1f6b4f;font-size:14px;letter-spacing:-0.084px;width:100%}
+.cari-page .cf321{overflow-wrap:break-word;align-content:stretch;display:flex;gap:24px;align-items:flex-start;font-style:normal;padding-top:8px;position:relative;width:100%;height:100%;font-size:14px;letter-spacing:-0.084px;height:auto;width:100%;max-width:100%}
+.cari-page .cf322{align-content:stretch;display:flex;flex:1 0 0;flex-direction:column;gap:12px;align-items:flex-start;min-width:1px;overflow:hidden;position:relative}
+.cari-page .cf323{align-content:stretch;display:flex;font-family:Inter,Arial,sans-serif;font-weight:500;gap:8px;align-items:flex-start;line-height:20px;overflow:hidden;position:relative;flex-shrink:0;white-space:nowrap}
+.cari-page .cf324{position:relative;flex-shrink:0;color:#1f6b4f}
+.cari-page .cf325{position:relative;flex-shrink:0;color:#141414}
+.cari-page .cf326{font-family:Inter,Arial,sans-serif;font-weight:400;line-height:21px;min-width:100%;position:relative;flex-shrink:0;color:#5c5c5c;width:min-content}
+.cari-flow{width:100%;min-width:0}.cari-flow>:not(.cari-visual):not(.cari-video){max-width:100%;min-width:0}
+.cari-page section{scroll-margin-top:24px}.cari-page .cari-flow>.case-section-header{width:100%;flex:none}
+.cari-page .cari-flow>[data-name="Body"],.cari-page [data-name="Evidence — participant"]{padding-left:33.333333%;width:100%}
+.cari-page [data-figma-id="106:2326"]{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}.cari-page [data-figma-id="106:2326"] dt{color:var(--muted);margin-bottom:4px}
+.cari-page [data-figma-id="76:2128"]{max-width:608px;width:100%;height:auto;font:400 40px/48px Newsreader,Georgia,serif;letter-spacing:-.4px}
+.cari-page [data-figma-id="76:2129"]{max-width:608px;width:100%}.cari-page [data-figma-id="76:2140"]{padding-top:64px}
+.cari-visual,.cari-video,.cari-walkthrough{position:relative;width:100%;min-width:0;overflow:hidden;flex-shrink:0;background:#f6f5f2}
+.cari-visual-clip{position:absolute;inset:0;overflow:hidden}.cari-page .cari-canvas{transform-origin:0 0;transform:scale(var(--cari-scale,1));max-width:none;flex:none}
+.cari-video>img{position:absolute;inset:0;display:block;width:100%;height:100%;object-fit:contain}.cari-video>video{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0}.cari-video[data-ready="true"]>video{opacity:1}.cari-video .scene-toggle[hidden]{display:none}
+.cari-page [data-figma-id="78:2403"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;width:100%}.cari-page [data-figma-id="78:2403"]>div{width:100%;min-width:0}
+.cari-page [data-figma-id="78:2487"]{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px;width:100%}.cari-page [data-figma-id="78:2487"]>div{width:100%;min-width:0}
+.cari-page [data-figma-id="78:2446"]{width:100%}.cari-page [data-figma-id="77:2334"]{width:100%;height:auto}
+.cari-page [data-name="Stats"]>div,.cari-page [data-name="Findings"]>div{min-width:0}.cari-page [data-name="Sources"]{max-width:100%}
+@media(min-width:761px) and (max-width:1199px){.cari-page .cari-flow>[data-name="Body"],.cari-page [data-name="Evidence — participant"]{padding-left:0}.cari-page [data-figma-id="78:2487"]{gap:24px}}
+@media(max-width:760px){
+ .cari-page section{scroll-margin-top:20px}.cari-page .cari-flow{padding-top:80px;gap:24px}.cari-page #overview .cari-flow{padding-top:48px;gap:20px}.cari-page #hero .cari-flow{padding-top:32px}
+ .cari-page .cari-flow>[data-name="Body"],.cari-page [data-name="Evidence — participant"]{padding-left:0}
+ .cari-page [data-figma-id="76:2128"]{font-size:28px;line-height:36px;letter-spacing:-.28px}.cari-page [data-figma-id="76:2129"]{font-size:17px;line-height:27px}
+ .cari-page [data-figma-id="106:2326"]{grid-template-columns:minmax(0,1fr);gap:24px}
+ .cari-page [data-name="Stats"],.cari-page [data-name="Findings"],.cari-page [data-figma-id="77:2334"],.cari-page [data-figma-id="77:2226"]{display:flex;flex-direction:column;width:100%;gap:24px}
+ .cari-page [data-name="Stats"]>div,.cari-page [data-name="Findings"]>div,.cari-page [data-figma-id="77:2334"]>div{width:100%;flex:none}
+ .cari-page [data-name="Evidence — published research"],.cari-page [data-name="Evidence — participant"],.cari-page [data-name="What the research suggests"]{padding-top:48px}
+ .cari-page [data-figma-id="78:2403"],.cari-page [data-figma-id="78:2487"]{grid-template-columns:minmax(0,1fr);gap:32px}
+ .cari-page [data-name="Sources"] p,.cari-page [data-name="Stats"] p{white-space:normal}
+ .cari-page #reflection .cari-flow{padding-top:80px}
+}
+.cari-page .cari-canvas{width:960px!important}
+/* Supply the border reset used by the Figma reference styles. */
+:where(.cari-page .cari-flow) *{border-width:0;border-style:solid}
+.cari-page .cari-flow>[data-figma-id="76:2128"],.cari-page .cari-flow>[data-figma-id="76:2129"]{max-width:608px}
+.cari-page .cari-flow :not(.cari-canvas):not(.cari-canvas *){max-width:100%;min-width:0}
+.cari-page [data-name="Sources"] a{white-space:normal;overflow-wrap:anywhere;height:auto}
+
+/* Text blocks wrap to their native content column rather than min-content. */
+.cari-page .cari-flow .cf14:not(.cari-canvas *),.cari-page .cari-flow .cf22:not(.cari-canvas *),.cari-page .cari-flow .cf25:not(.cari-canvas *),.cari-page .cari-flow .cf31:not(.cari-canvas *),.cari-page .cari-flow .cf32:not(.cari-canvas *),.cari-page .cari-flow .cf80:not(.cari-canvas *),.cari-page .cari-flow .cf81:not(.cari-canvas *),.cari-page .cari-flow .cf157:not(.cari-canvas *),.cari-page .cari-flow .cf158:not(.cari-canvas *),.cari-page .cari-flow .cf179:not(.cari-canvas *),.cari-page .cari-flow .cf180:not(.cari-canvas *),.cari-page .cari-flow .cf201:not(.cari-canvas *),.cari-page .cari-flow .cf207:not(.cari-canvas *),.cari-page .cari-flow .cf255:not(.cari-canvas *),.cari-page .cari-flow .cf256:not(.cari-canvas *),.cari-page .cari-flow .cf262:not(.cari-canvas *),.cari-page .cari-flow .cf263:not(.cari-canvas *),.cari-page .cari-flow .cf326:not(.cari-canvas *){width:100%}
+
+.cari-page .cari-flow .cf1:not(.cari-canvas *),.cari-page .cari-flow .cf14:not(.cari-canvas *),.cari-page .cari-flow .cf20:not(.cari-canvas *),.cari-page .cari-flow .cf25:not(.cari-canvas *),.cari-page .cari-flow .cf31:not(.cari-canvas *),.cari-page .cari-flow .cf205:not(.cari-canvas *),.cari-page .cari-flow .cf207:not(.cari-canvas *),.cari-page .cari-flow .cf215:not(.cari-canvas *),.cari-page .cari-flow .cf216:not(.cari-canvas *),.cari-page .cari-flow .cf220:not(.cari-canvas *),.cari-page .cari-flow .cf223:not(.cari-canvas *),.cari-page .cari-flow .cf256:not(.cari-canvas *),.cari-page .cari-flow .cf267:not(.cari-canvas *),.cari-page .cari-flow .cf318:not(.cari-canvas *),.cari-page .cari-flow .cf325:not(.cari-canvas *){color:var(--text)}
+.cari-page .cari-flow .cf2:not(.cari-canvas *),.cari-page .cari-flow .cf6:not(.cari-canvas *),.cari-page .cari-flow .cf11:not(.cari-canvas *),.cari-page .cari-flow .cf22:not(.cari-canvas *),.cari-page .cari-flow .cf32:not(.cari-canvas *),.cari-page .cari-flow .cf34:not(.cari-canvas *),.cari-page .cari-flow .cf201:not(.cari-canvas *),.cari-page .cari-flow .cf262:not(.cari-canvas *),.cari-page .cari-flow .cf314:not(.cari-canvas *),.cari-page .cari-flow .cf319:not(.cari-canvas *),.cari-page .cari-flow .cf326:not(.cari-canvas *){color:var(--secondary)}
+.cari-page .cari-flow .cf9:not(.cari-canvas *),.cari-page .cari-flow .cf16:not(.cari-canvas *),.cari-page .cari-flow .cf23:not(.cari-canvas *),.cari-page .cari-flow .cf26:not(.cari-canvas *),.cari-page .cari-flow .cf28:not(.cari-canvas *),.cari-page .cari-flow .cf33:not(.cari-canvas *),.cari-page .cari-flow .cf195:not(.cari-canvas *),.cari-page .cari-flow .cf196:not(.cari-canvas *),.cari-page .cari-flow .cf204:not(.cari-canvas *),.cari-page .cari-flow .cf221:not(.cari-canvas *),.cari-page .cari-flow .cf250:not(.cari-canvas *),.cari-page .cari-flow .cf255:not(.cari-canvas *),.cari-page .cari-flow .cf263:not(.cari-canvas *){color:var(--muted)}
+
+@media(max-width:760px){.cari-page #hero .cari-video{aspect-ratio:350/322!important}.cari-page #hero .cari-video>img,.cari-page #hero .cari-video>video{object-fit:cover}}

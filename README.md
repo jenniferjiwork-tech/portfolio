@@ -7,6 +7,7 @@ Personal portfolio of Jennifer Ji, a product designer based in Switzerland. Buil
 - `index.html` — homepage and selected work
 - `about/index.html` — background, experience and education
 - `projects/conversion/index.html` — conversion design and testing at JENNY BIRD
+- `projects/cari/index.html` — Cari product design case study
 - `projects/jenny-bird/index.html` — JENNY BIRD experience, site design and email work
 
 ## Preview locally
